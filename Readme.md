@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with Back-end & API
 
-- 👨‍💻 All of my projects are available [**Here**](https://kmj-007.github.io/FCC_personal_portfolio/)
+- 👨‍💻 All of my projects are available [**Here**](https://kmj-007.github.io/KMJ-007/)
 
 - 💬 Ask me about Front end
 
