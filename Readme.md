@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Karan 👋</h1>
 
-<h3 align="center">A passionate full-Stack developer from India</h3>
+<h3 align="center">An aspiring  full-Stack developer from India</h3>
 <br>
 
 - 🔭 I’m currently working on My MERN Stack
@@ -25,7 +25,7 @@
 <b>
 
 <p align="center">
-<a href="https://linkedin.com/in/http://linkedin.com/in/karanjanthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/karanjanthe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/KaranJanthe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/karanjanthe" height="30" width="40" /></a>
 <a href="https://twitter.com/karanjanthe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanjanthe" height="30" width="40" /></a>
 </p>
 <br>
@@ -59,7 +59,7 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmj-007&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kmj-007" /></p> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmj-007&show_icons=true&theme=tokyonight&locale=en" alt="kmj-007" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KMJ-007&show_icons=true&theme=radical" alt="kmj-007" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj-007&theme=blue-green" alt="kmj-007" /></p>
 
