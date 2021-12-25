@@ -57,17 +57,19 @@
 <br>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmj-007&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kmj-007" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmj-007&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kmj-007" /></p> -->
 
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmj-007&show_icons=true&theme=tokyonight&locale=en" alt="kmj-007" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmj-007&show_icons=true&theme=tokyonight&locale=en" alt="kmj-007" /></p>
 
-![github-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kmj-007&theme=blue-green)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj-007&theme=blue-green" alt="kmj-007" /></p>
+
+
+
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmj-007&show_icons=true&locale=en&layout=compact" alt="kmj-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmj-007&show_icons=true&locale=en" alt="kmj-007" /></p> -->
 
-![github-followers](https://img.shields.io/github/followers/kmj-007.svg?style=social&label=Follow&maxAge=2592000)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kmj-007&label=Visitors&color=0e75b6&style=flat" alt="kmj-007" /> </p>
