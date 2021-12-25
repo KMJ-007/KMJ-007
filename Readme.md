@@ -59,8 +59,7 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmj-007&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kmj-007" /></p> -->
 
-<p align="center">&nbsp;<img align="center" src="![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMJ-007&show_icons=true&theme=tokyonight)
-" alt="kmj-007" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KMJ-007&show_icons=true&theme=radical" alt="kmj-007" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj-007&theme=blue-green" alt="kmj-007" /></p>
 
