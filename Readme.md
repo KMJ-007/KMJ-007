@@ -7,7 +7,7 @@
 
 ### <div align="center">I'm a 17 year old Junior year CSE student from India 🚀 </div>  
 <!-- <h3 align="center">An aspiring  full-Stack developer from India</h3> -->
-<br>
+
 
 
 - 🔭 I’m currently working on My MERN Stack
