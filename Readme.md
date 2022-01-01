@@ -1,8 +1,11 @@
-<h1 >Hello, I'm Karan 👋</h1>
+<h1 >Hey👋</h1>
 
 <div align="center">
 <img width="600"  src=./banner.png></img>
 </div>
+<br>
+
+### <div align="center">I'm a 17 year old Junior year CSE student from India 🚀 </div>  
 <!-- <h3 align="center">An aspiring  full-Stack developer from India</h3> -->
 <br>
 
