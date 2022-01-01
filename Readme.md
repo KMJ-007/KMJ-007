@@ -1,7 +1,11 @@
-<h1 align="center">Hello, I'm Karan 👋</h1>
+<h1 >Hello, I'm Karan 👋</h1>
 
-<h3 align="center">An aspiring  full-Stack developer from India</h3>
+<div align="center">
+<img width="600"  src=./banner.png></img>
+</div>
+<!-- <h3 align="center">An aspiring  full-Stack developer from India</h3> -->
 <br>
+
 
 - 🔭 I’m currently working on My MERN Stack
 
@@ -18,6 +22,7 @@
 -  📫 How to reach me: [**karanjanthe@gmail.com**](mailto:saviomartin2007@gmail.com) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to Travel!
+
 
 <br>
 
