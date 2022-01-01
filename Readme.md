@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KMJ-007&show_icons=true&theme=radical" alt="kmj-007" /></p>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KMJ-007&theme=tokyonight" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=KMJ-007&show_icons=true&theme=radical" alt="kmj-007" /></p>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KMJ-007&theme=tokyonight" />
 
 </div>
 
