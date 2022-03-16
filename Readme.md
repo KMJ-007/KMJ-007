@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on My MERN Stack
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently NEXT.js
 
-- 👯 I’m looking to collaborate on Web development Projects
+- 👯 I’m looking to collaborate on Full-stack Projects
 
-- 🤝 I’m looking for help with Back-end & API
+- 🤝 I’m looking for help with advanced backend
 
 - 👨‍💻 All of my projects are available [**Here**](https://kmj-007.github.io/KMJ-007/)
 
