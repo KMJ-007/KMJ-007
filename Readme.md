@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on My MERN Stack
 
-- 🌱 I’m currently NEXT.js
+- 🌱 I’m currently learning NEXT.js
 
 - 👯 I’m looking to collaborate on Full-stack Projects
 
