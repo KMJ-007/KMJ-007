@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on My MERN Stack
 
-- 🌱 I’m currently learning [Solidity](https://cryptozombies.io/) 
+- 🌱 I’m currently deep diving in how framework works
 
 - 👯 I’m looking to collaborate on Full-stack Projects
 
