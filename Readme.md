@@ -1,5 +1,5 @@
 <!-- <h1 >Hey👋</h1> -->
-
+<!--
 <div align="center">
 <img width="800"  src=./banner.png></img>
 </div>
@@ -9,7 +9,7 @@
 <!-- <h3 align="center">Full stack developer | open source enthusiast</h3> -->
 
 
-
+<!--
 - 🔭 I’m currently working on My MERN Stack
 
 - 🌱 I’m currently deep diving in how framework works
@@ -96,3 +96,4 @@
 ## <div align="center"> Thanks for visiting!</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kmj-007&label=Visitors&color=0e75b6&style=flat" alt="kmj-007" /> </p>
+-->
